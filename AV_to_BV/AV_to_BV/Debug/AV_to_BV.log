@@ -1,0 +1,6 @@
+﻿  AV_to_BV.cpp
+D:\Code\Cpp\AV_to_BV\AV_to_BV\AV_to_BV.cpp(30,35): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+D:\Code\Cpp\AV_to_BV\AV_to_BV\AV_to_BV.cpp(52,20): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+  Main.cpp
+  正在生成代码...
+  AV_to_BV.vcxproj -> D:\Code\Cpp\AV_to_BV\Debug\AV_to_BV.exe
